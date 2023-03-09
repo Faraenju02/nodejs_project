@@ -2,7 +2,7 @@
   "name": "nodejs_project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "/srcindex.js",
   "type":"module",
 
   "scripts": {
